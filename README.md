@@ -1,0 +1,1 @@
+# Growatt_SPF5000ES_HomeAssistant
