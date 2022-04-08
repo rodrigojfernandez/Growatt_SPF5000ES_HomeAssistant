@@ -21,3 +21,5 @@ sensor:
 ```
 
 If you want to change any of the inverter settings defined in the callback funtion, your need to call the mqtt publish service from home assistant with corresponding topic and proper message. Take a look at the callback funtion to see which topics were included for changing the inverter settings.
+
+![image](https://user-images.githubusercontent.com/48125115/162477510-7a961e2c-b4b0-475c-9d56-36e9baf4e372.png)
